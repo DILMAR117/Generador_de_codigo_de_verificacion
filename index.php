@@ -38,6 +38,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         h1 {
             color: #333;
+            text-align: center;
         }
 
         form {
