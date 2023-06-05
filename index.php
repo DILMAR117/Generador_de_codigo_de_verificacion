@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Generador de Código de Verificación</title>
+    <title>Generador de Código de Verificación Mejorado+.</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -80,7 +80,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </style>
 </head>
 <body>
-    <h1>Generador de Código de Verificación</h1>
+    <h1>Generador de Código de Verificación Mejorado.</h1>
 
     <form action="" method="post">
         <label for="longitud">Longitud del código:</label>
